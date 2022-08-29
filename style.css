@@ -1,9 +1,22 @@
 
 h1 {
     text-align: center;
-    color: red;
 }
 .Gesamt {
     max-width: 40%;
-    padding: 20px;
+    margin-top: 8%;
+}
+.kleines_Bild {
+    max-width: 70%;
+    padding: 10px;
+}
+.Fahrerinfo {
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    background-color: blue;
+
+}
+.Qualität {
+    margin-top: 8%;
 }
