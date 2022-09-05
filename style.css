@@ -2,17 +2,30 @@
 h1 {
     text-align: center;
 }
+body {
+    background-color: rgba(22, 42, 131, 0.1);
+}
 .Gesamt {
     max-width: 40%;
-    margin-top: 8%;
-    margin-left: 25%;
-    margin-right: 25%;
+    display: block;
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 1px solid #162a83;
 }
-.kleines_Bild {
-    max-width: 70%;
+.kleines_Bild_1 {
+    width: 500px;
     padding: 10px;
     margin-left: 10%;
     margin-right: 10%;
+    border-radius: 40px;
+}
+.kleines_Bild_2 {
+    width: 575px;
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 40px;
 }
 .Fahrerinfo {
     text-align: center;
@@ -24,11 +37,17 @@ h1 {
     padding-bottom: 30px;
     padding-left: 10px;
     padding-right: 10px;
-
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-bottom: 2%;
 }
 .Titel {
     margin-top: 10%;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
+}
+.Titel2{
+    margin-top: 20px;
+    margin-bottom: 2%;
 }
 .Link {
     color: black;
@@ -52,5 +71,10 @@ h1 {
     margin-right: 30%;
 }
 .Logo {
-    
+    max-width: 300px;
+    padding: 30px;
+    border-radius: 40px;
+}
+.Bilder {
+    margin-left: 30%;
 }
