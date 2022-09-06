@@ -78,3 +78,8 @@ body {
 .Bilder {
     margin-left: 30%;
 }
+.email-link {
+    color: black;
+    text-decoration: none;
+  }
+  
