@@ -82,4 +82,23 @@ body {
     color: black;
     text-decoration: none;
   }
-  
+  .Kontakt {
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+  .Kontaktform {
+    text-align: center;
+  }
+ input {
+    width: 100%;
+  }
+  label {
+    text-align: left;
+  }
+  .Kontaktknopf {
+    max-width: fit-content;
+    background-color: #162a83;
+    color: white;
+    border-radius: 30px;
+  }
