@@ -92,9 +92,11 @@ body {
   }
  input {
     width: 100%;
+    margin-bottom: 30px;
   }
   label {
     text-align: left;
+    margin-bottom: 5px;
   }
   .Kontaktknopf {
     max-width: fit-content;
