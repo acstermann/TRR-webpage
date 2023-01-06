@@ -115,3 +115,6 @@ body {
     text-align: block;
     padding-left: 50px;
   }
+  .flag {
+    max-width: 5%;
+  }
