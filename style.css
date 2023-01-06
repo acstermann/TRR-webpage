@@ -4,6 +4,7 @@ h1 {
 }
 body {
     background-color: rgba(22, 42, 131, 0.1);
+    margin-top: 250px;
 }
 .Gesamt {
     max-width: 40%;
