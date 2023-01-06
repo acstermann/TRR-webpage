@@ -105,3 +105,13 @@ body {
     color: white;
     border-radius: 30px;
   }
+  .logo {
+    max-width: 20%;
+  }
+  .Stellenanzeige {
+    max-width: 50%;
+  }
+  .Tankwagenreiniger {
+    text-align: block;
+    padding-left: 50px;
+  }
