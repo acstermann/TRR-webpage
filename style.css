@@ -20,6 +20,7 @@ body {
     margin-left: 10%;
     margin-right: 10%;
     border-radius: 40px;
+    max-width: 100%;
 }
 .kleines_Bild_2 {
     width: 575px;
@@ -27,13 +28,12 @@ body {
     margin-left: 10%;
     margin-right: 10%;
     border-radius: 40px;
+    max-width: 100%;
 }
 .Fahrerinfo {
     text-align: center;
     background-color: #162a83;
     color: white;
-    margin-left: 40%;
-    margin-right: 40%;
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 10px;
@@ -41,6 +41,7 @@ body {
     border: 2px solid black;
     border-radius: 30px;
     margin-bottom: 2%;
+    max-width: 100%;
 }
 .Titel {
     margin-top: 10%;
@@ -101,10 +102,18 @@ body {
     margin-bottom: 5px;
   }
   .Kontaktknopf {
-    max-width: fit-content;
     background-color: #162a83;
     color: white;
+    border: 2px solid black;
     border-radius: 30px;
+    margin-bottom: 2%;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 30%;
+    
   }
   .logo {
     max-width: 20%;
@@ -120,16 +129,12 @@ body {
     max-width: 5%;
   }
   .email-link2 {
-    display: flex;
-    justify-content: center;
+    display: block;
+    text-align: center;
     border-radius: 30px;
-    background-color: #162a83;
-    color: white;
     text-decoration: none;
     max-width: 300px;
     padding-top: 5px;
     padding-bottom: 5px;
     min-width: 200px;
-    margin-left: 40%;
-    margin-right: 40%;
   }
