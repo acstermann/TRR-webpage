@@ -1,7 +1,6 @@
 
 h1 {
     text-align: center;
-    font-weight: bold;
 }
 body {
     background-color: rgba(22, 42, 131, 0.1);
@@ -48,10 +47,12 @@ body {
 .Titel {
     margin-top: 10%;
     margin-bottom: 2%;
+    font-weight: bold;
 }
 .Titel2{
     margin-top: 20px;
     margin-bottom: 2%;
+    font-weight: bold;
 }
 .Link {
     color: black;
@@ -139,4 +140,7 @@ body {
     padding-top: 5px;
     padding-bottom: 5px;
     min-width: 200px;
+  }
+  .nav-item {
+    max-width: 500px;
   }
