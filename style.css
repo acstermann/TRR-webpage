@@ -131,6 +131,9 @@ body {
   .flag {
     max-width: 10%;
   }
+  .flag2 {
+    max-width: 15%;
+  }
   .email-link2 {
     display: block;
     text-align: center;
