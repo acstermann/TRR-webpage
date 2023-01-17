@@ -85,8 +85,7 @@ body {
     border-radius: 40px;
 }
 .Bilder {
-    margin-left: 10%;
-    margin-right: 10%;
+    text-align: center;
 }
 .email-link {
     color: black;
