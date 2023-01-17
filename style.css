@@ -142,5 +142,5 @@ body {
     min-width: 200px;
   }
   .nav-item {
-    width: 80%;
+    padding-left: 50px;
   }
