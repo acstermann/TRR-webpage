@@ -76,8 +76,9 @@ body {
     margin-right: 30%;
 }
 .Datenschutz {
-    margin-left: 30%;
-    margin-right: 30%;
+  margin-left: 200px;
+  margin-right: 200px;
+  text-align: justify;
 }
 .Logo {
     max-width: 300px;
@@ -150,3 +151,8 @@ body {
   .nav-item {
     padding-left: 50px;
   }
+  .AGB {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+}
