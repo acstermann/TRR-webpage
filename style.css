@@ -152,11 +152,7 @@ body {
     margin-left: 200px;
     margin-right: 200px;
     text-align: justify;
-}
-.Straße {
-  max-width: 500px;
-}
-.einleitung {
-margin-left: 15%;
-margin-right: 13%;
-}
+  }
+  .Straße {
+    max-width: 500px;
+  }
